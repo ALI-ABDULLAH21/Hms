@@ -1,0 +1,4 @@
+DESIGNATION,WARD,NAME,USERNAME,PASSWORD,ADDRESS,EMIAL,DESIGNATION,SALARY,EXPERIENCE
+Doctor,Dengue,aneeq,aneeq990,123432,iuhauhx,aneeq0742gmail.com,MBBS,fCPS,250000,7
+Doctor,dengue,ali,ali999,234222,frgqegwwr,regqrqee,gwwe,23,34
+Doctor,Dengue,Malik,qiwqfiq,352365,lafafqwvlfa,alfaqwflqhwhehw,mbbs,25235,532

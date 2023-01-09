@@ -1,0 +1,3 @@
+PATIENT NAME,PATIENT NUMBER,ADDRESS,CONTACT,WARD,PREVIOUS DIAGNOSIS,SMOKING/DRINKING,DIAGNOSIS
+ali akmal,DEN998,Johartown-Lahore,042-9872542,Dengue,Hemmorrhage,no,Dengue
+Aakhiz,ONC876,MisriShah-Lahore,0398232322,Oncology,no,no,sore throat
